@@ -1,0 +1,165 @@
+/* font-family: 'PT Sans', sans-serif; */
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'PT Sans', sans-serif;
+    color: #010101;
+}
+/* header part start */
+header{
+    background-color: #fcdb00;
+    color: #000000;
+    padding: 25px 0;
+}
+.menu{
+
+}
+.menu ul li a{
+    font-weight: 700;
+    font-size: 22px;
+    padding: 0 40px !important;
+    transition: 0.3s all ease-in-out;
+
+}
+.menu ul li:last-child a{
+    padding-right: 0 !important;
+
+}
+.menu ul li a:hover{
+    color: #ffffff !important;
+     border-bottom: #ffffff 1px solid;
+}
+
+/* header part end*/
+/* slider part start */
+.slider{
+    background-color: #fcdb00;
+    padding-bottom: 100px;
+}
+.cid{
+    bottom: -20%;
+
+}
+.cid li{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.slider-content{
+    margin-top: 65px;
+
+}
+.slider-content h1{
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 20px;
+
+}
+.slider-content h2{
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding: 15px 0px;
+    margin-bottom: 20px;
+
+}
+.slider-content p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+    word-spacing: 1px;
+    line-height: 20px;
+    margin-bottom: 35px;
+
+}
+.slider-content ul li{
+    margin-right: 30px !important;
+
+}
+.slider-icon{
+    font-size: 42px;
+}
+.slider-content ul li i{
+
+}
+.slider-images{
+    /* margin-left: 30px; */
+
+}
+.slider-images img{
+
+}
+/* slider part end*/
+/* tinyone feature start */
+.simple-content{
+    padding-bottom: 50px;
+}
+.simple-content h1{
+    font-size: 32px;
+    font-weight: 700;
+    
+}
+.feature{
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+.simple-content p{
+    font-size: 20px;
+    font-weight: 400;
+     color:#555555;
+     word-spacing: 2px;
+     letter-spacing: 1px;
+}
+.sid{
+    margin-bottom: 40px;
+}
+.contents{
+    /* margin-top: 0%; */
+}
+.f-icons{
+    font-size: 50px !important;
+}
+.contents h2{
+    font-size: 22px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.contents p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #898989;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+/* tinyone feature end */
+
+/* keep in touch start */
+.keep-intouch{
+    background-color: #010101;
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+.yellow{
+    color: #fcdb00;
+}
+.p{
+    margin-bottom: 0;
+}
+.input{
+    padding: 50px 0;
+    margin-right: 20px;
+}
+.btn-submit{
+    background-color: #fcdb00;
+    padding: 10px 20px;
+    font-weight: 700;
+    font-size: 16px;
+}
+.form{
+    
+}
+/* keep in touch end */
